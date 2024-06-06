@@ -1,3 +1,3 @@
 # Tic-Tac-Toe 
-base game
+base game <br/>
 run: gcc -Wall main -o main
